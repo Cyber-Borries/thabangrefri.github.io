@@ -1,0 +1,30 @@
+body {
+	background-color: darkkhaki;
+}
+
+.navbar {
+	
+}
+
+.jumbotron {
+	border: 5px inset #A4313F;
+	
+}
+
+.div1 {
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+	background-color: ;
+}
+
+.smallfridge {
+	float: left;
+}
+
+.jumbo_trading {
+	background-color: darkkhaki;
+	color: oldlace;
+}
+
+.trading_h {
+	border: 2px inset #A4313F;
+}
